@@ -1,2 +1,2 @@
-# eos_authority_data
-EOS Authority Data
+# EOS Authority Data
+Public data sets produced by EOS Authority
